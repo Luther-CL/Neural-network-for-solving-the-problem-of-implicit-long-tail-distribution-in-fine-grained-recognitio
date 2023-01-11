@@ -1,4 +1,4 @@
-# Misclassification-guided two-level partition ViT model for solving implicit long-tailed distribution in fine-grained image recognition
+# Neural network for solving the problem of implicit long tail distribution in fine-grained recognition
 
 
 
