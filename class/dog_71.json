@@ -1,0 +1,264 @@
+{
+  "kelpie": [
+    0
+  ],
+  "malinois": [
+    1
+  ],
+  "terrier": [
+    2,
+    13,
+    16,
+    19,
+    24,
+    27,
+    36,
+    38,
+    42,
+    44,
+    72,
+    81,
+    87,
+    94,
+    98,
+    101,
+    109,
+    114,
+    119
+  ],
+  "mountain": [
+    3,
+    73
+  ],
+  "borzoi": [
+    4
+  ],
+  "hound": [
+    5,
+    8,
+    9,
+    14,
+    39,
+    46,
+    60,
+    76,
+    90,
+    108,
+    112
+  ],
+  "EntleBucher": [
+    6
+  ],
+  "chow": [
+    7
+  ],
+  "poodle": [
+    10,
+    49,
+    116
+  ],
+  "dingo": [
+    11
+  ],
+  "retriever": [
+    12,
+    43,
+    56,
+    62,
+    115
+  ],
+  "Eskimo": [
+    15
+  ],
+  "hunting": [
+    17
+  ],
+  "spaniel": [
+    18,
+    30,
+    32,
+    34,
+    77,
+    83,
+    85
+  ],
+  "whippet": [
+    20
+  ],
+  "Weimaraner": [
+    21
+  ],
+  "kuvasz": [
+    22
+  ],
+  "schipperke": [
+    23
+  ],
+  "bulL": [
+    25
+  ],
+  "Pyrenees": [
+    26
+  ],
+  "Dane": [
+    28
+  ],
+  "Maltese": [
+    29
+  ],
+  "Lhasa": [
+    31
+  ],
+  "setter": [
+    33,
+    40,
+    110
+  ],
+  "basenji": [
+    35
+  ],
+  "bluetick": [
+    37
+  ],
+  "cairn": [
+    41
+  ],
+  "sheep": [
+    45,
+    53
+  ],
+  "mastiff": [
+    47,
+    50
+  ],
+  "keeshond": [
+    48
+  ],
+  "schnauzer": [
+    51,
+    74,
+    80
+  ],
+  "collie": [
+    52,
+    115
+  ],
+  "griffon": [
+    54
+  ],
+  "husky": [
+    55
+  ],
+  "malamute": [
+    57
+  ],
+  "Bernard": [
+    58
+  ],
+  "pointer": [
+    59
+  ],
+  "papillon": [
+    61
+  ],
+  "Leonberg": [
+    63
+  ],
+  "Pomeranian": [
+    64
+  ],
+  "Rottweiler": [
+    65
+  ],
+  "basset": [
+    66
+  ],
+  "clumber": [
+    67
+  ],
+  "Appenzeller": [
+    68
+  ],
+  "Saluki": [
+    69
+  ],
+  "boxer": [
+    70
+  ],
+  "Dinmont": [
+    71
+  ],
+  "Newfoundland": [
+    75
+  ],
+  "ridgeback": [
+    78
+  ],
+  "Tzu": [
+    79
+  ],
+  "briard": [
+    82
+  ],
+  "shepherd": [
+    84
+  ],
+  "Doberman": [
+    86
+  ],
+  "hairless": [
+    88
+  ],
+  "Pembroke": [
+    89
+  ],
+  "vizsla": [
+    91
+  ],
+  "Flandres": [
+    92
+  ],
+  "Chihuahua": [
+    93
+  ],
+  "bull": [
+    95
+  ],
+  "dhole": [
+    96
+  ],
+  "groenendael": [
+    97
+  ],
+  "redbone": [
+    99
+  ],
+  "komondor": [
+    100
+  ],
+  "pinscher": [
+    102,
+    111
+  ],
+  "Pekinese": [
+    103
+  ],
+  "Airedale": [
+    104
+  ],
+  "Samoyed": [
+    105
+  ],
+  "springer": [
+    106
+  ],
+  "Cardigan": [
+    107
+  ],
+  "pug": [
+    117
+  ],
+  "beagle": [
+    118
+  ]
+}
